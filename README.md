@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hey, I’m Moritz 👋
 
-<!--
-**moritzruth/moritzruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💙 I’m passionate about  
 
-Here are some ideas to get you started:
+💻 coding  
+📰 web and print design  
+💡 event technology (especially lightning)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📚 In my projects I usually use
+
+- Vue.js for the frontend  
+- Kotlin or Node.js for the backend
+
+#### 🔎 Currently I’m learning
+
+React, Next.js and gRPC
+
+#### 🤖 In the future
+
+I want to do more photography and videography.
+
+<br/>
+
+Some of my projects: [moritzruth.de/projects](https://moritzruth.de/projects)  
+Twitter: [moritz_ruth](https://twitter.com/moritz_ruth)  
+Instagram: [moritz_ruth](https://instagram.com/moritz_ruth)
