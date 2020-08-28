@@ -19,7 +19,7 @@ React, Next.js and gRPC
 
 I want to do more photography and videography.
 
-<br/>
+#### Links
 
 Some of my projects: [moritzruth.de/projects](https://moritzruth.de/projects)  
 Twitter: [moritz_ruth](https://twitter.com/moritz_ruth)  
