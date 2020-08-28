@@ -2,9 +2,9 @@
 
 #### 💙 I’m passionate about  
 
-💻 coding  
-📰 web and print design  
-💡 event technology (especially lightning)  
+- coding 💻
+- web and print design 📰
+- event technology (especially lightning) 💡
 
 #### 📚 In my projects I usually use
 
@@ -13,7 +13,9 @@
 
 #### 🔎 Currently I’m learning
 
-React, Next.js and gRPC
+- React
+- Next.js
+- gRPC
 
 #### 🤖 In the future
 
