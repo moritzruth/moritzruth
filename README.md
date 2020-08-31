@@ -13,9 +13,9 @@
 
 #### 🔎 Currently I’m learning
 
-- React
+- React/Preact
 - Next.js
-- gRPC
+- Using Snowpack
 
 #### 🤖 In the future
 
