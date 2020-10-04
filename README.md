@@ -15,7 +15,7 @@
 
 - React/Preact
 - Next.js
-- Using Snowpack
+- Snowpack
 
 #### 🤖 In the future
 
