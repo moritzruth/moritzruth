@@ -4,25 +4,23 @@
 
 - coding 💻
 - web and print design 📰
-- event technology (especially lightning) 💡
+- event technology, especially lighting 💡
 
 #### 📚 In my projects I usually use
 
-- Vue.js for the frontend  
-- Kotlin or Node.js for the backend
+- Vue.js for the frontend 👀
+- Kotlin or Node.js for the backend 🤖
 
 #### 🔎 Currently I’m learning
 
-- React/Preact
-- Next.js
-- Snowpack
-
-#### 🤖 In the future
-
-I want to do more photography and videography.
+- Tailwind CSS 💨
 
 #### 🌐 Links
 
-Some of my projects: [moritzruth.de/projects](https://moritzruth.de/projects)  
-Twitter: [moritz_ruth](https://twitter.com/moritz_ruth)  
-Instagram: [moritz_ruth](https://instagram.com/moritz_ruth)
+🎉 Some of my projects: [moritzruth.de/projects](https://moritzruth.de/projects)  
+🐦 Twitter: [moritz_ruth](https://twitter.com/moritz_ruth)  
+📷 Instagram: [moritz_ruth](https://instagram.com/moritz_ruth)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moritzruth)]
