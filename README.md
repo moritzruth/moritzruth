@@ -13,7 +13,7 @@
 
 #### 🔎 Currently I’m learning
 
-- Tailwind CSS 💨
+- WebAuthn
 
 #### 🌐 Links
 
