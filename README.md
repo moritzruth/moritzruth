@@ -1,6 +1,6 @@
 ## Hey, I’m Moritz 👋
 
-🐦 Twitter: [moritzruth](https://twitter.com/moritzruth)  
+🦣 Mastodon: [@moritz@alpaka.social](https://alpaka.social/@moritz)  
 📷 Instagram: [moritz_ruth](https://instagram.com/moritz_ruth)
 
 ---
